@@ -1,0 +1,1 @@
+SMPP Client Library - open source SMPP v3.4 Protocol implementation. KISS design, maximum flexibility. See usage examples at [wiki](http://code.google.com/p/smppclient/wiki/Home).
